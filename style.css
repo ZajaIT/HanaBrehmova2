@@ -313,7 +313,8 @@ nav a:hover {
 }
 
 .btn-dark {
-    background: #5c5c5c;
+    background: #787878;
+    border-color: #787878;
     color: white;
 }
 
@@ -632,7 +633,7 @@ color: var(--muted);
 }
 
 .copyright-bar {
-    background: #5c5c5c;
+    background: #787878;
     color: white;
 
     text-align: center;
