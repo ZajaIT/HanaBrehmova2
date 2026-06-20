@@ -124,7 +124,7 @@ p {
 
     padding: 1rem 2rem;
 
-    border: 1px solid #181818;
+    border: 1px solid #8a8a8a;
 
     transition: var(--transition);
 }
@@ -133,6 +133,7 @@ p {
 .btn-header:hover {
 
     background: #8a8a8a;
+    border-color: #8a8a8a;
     color: white;
 }
 
