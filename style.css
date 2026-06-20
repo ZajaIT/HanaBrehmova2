@@ -132,7 +132,7 @@ p {
 .btn-primary:hover,
 .btn-header:hover {
 
-    background: #181818;
+    background: #8a8a8a;
     color: white;
 }
 
@@ -321,7 +321,7 @@ nav a:hover {
 .btn-dark:hover {
 
     background: transparent;
-    color: #181818;
+    color: #8a8a8a;
 }
 
 /* =========================
