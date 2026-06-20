@@ -265,8 +265,6 @@ nav a:hover {
 
 .hero {
 
-    min-height: calc(100vh - 90px);
-
     display: flex;
     align-items: flex-start;
 
